@@ -1,4 +1,1 @@
-*.pth
-.gitignore
-Dockerfile
-README.md
+app/export.pkl
