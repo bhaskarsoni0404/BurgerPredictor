@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://github.com/bhaskarsoni0404/BurgerPredictorModel/blob/master/data/export.pkl'
+export_file_url = 'https://drive.google.com/file/d/1rI0NQ1ITvFZaHCA4nqsRQ8V9M5nQ3K67/view?usp=drivesdk'
 export_file_name = 'export.pkl'
 
 classes = ['burger', 'hotdog', 'sandwich','vadapao']
